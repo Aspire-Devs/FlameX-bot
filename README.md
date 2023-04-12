@@ -1,0 +1,2 @@
+# FlameX-bot
+about flamex
